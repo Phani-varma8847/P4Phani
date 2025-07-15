@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [PHANI VARMA PERICHARLA]!
+# 👋 Hi, I'm PHANI VARMA PERICHARLA!
 
 I'm an aspiring software developer passionate about learning and building cool projects. Currently exploring web development and data science.
 
